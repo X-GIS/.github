@@ -17,6 +17,6 @@
 
   Declare what your map should look like. The compiler emits the WGSL shaders, buffer layouts, and projection math.
   
-  [Homepage](https://xgis.github.io/X-GIS)
+  [Homepage](https://x-gis.github.io/X-GIS)
   
 </div>
